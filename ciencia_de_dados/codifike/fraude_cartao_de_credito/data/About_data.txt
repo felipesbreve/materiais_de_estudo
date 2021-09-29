@@ -1,0 +1,1 @@
+O dataset foi obtido do link https://www.kaggle.com/mlg-ulb/creditcardfraud
